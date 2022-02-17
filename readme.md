@@ -24,7 +24,7 @@ For more information can be seen in my [video]("https://youtu.be/pL4SoZl7-hw") o
 
 4. Input text to input form, support language : `RU`, `EN`, `TH`
 
-5.Wait for output
+5. Wait for output
 
 ## Art Result
 
