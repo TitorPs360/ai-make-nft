@@ -6,7 +6,7 @@ In this project, I created a script for working on Google Colab in order to use 
 
 ## Youtube
 
-For more information can be seen in my [video]("https://youtu.be/pL4SoZl7-hw") on YouTube.
+For more information can be seen in my [video](https://youtu.be/pL4SoZl7-hw) on YouTube.
 
 [![new_thumb](./fig/cover.png)]("https://youtu.be/pL4SoZl7-hw")
 
@@ -16,7 +16,7 @@ For more information can be seen in my [video]("https://youtu.be/pL4SoZl7-hw") o
 
 ## Usage
 
-1. Download [NFT_with_AI.ipynb]("./NFT_with_AI.ipynb")
+1. Download [NFT_with_AI.ipynb](https://github.com/TitorPs360/ai-make-nft/blob/main/NFT_with_AI.ipynb)
 
 2. Import to Google Colab
 
